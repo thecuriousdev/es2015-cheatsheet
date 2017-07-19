@@ -1,0 +1,29 @@
+{
+  "name": "es2015-cheatsheet",
+  "version": "1.0.0",
+  "description": "ES2015 feature list with simple documentation, useful external links and code snippets",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thecuriousdev/es2015-cheatsheet.git"
+  },
+  "keywords": [
+    "es6",
+    "es2015",
+    "cheatsheet"
+  ],
+  "author": "thecuriousdev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thecuriousdev/es2015-cheatsheet/issues"
+  },
+  "homepage": "https://github.com/thecuriousdev/es2015-cheatsheet#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.0"
+  }
+}
